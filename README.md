@@ -1,6 +1,8 @@
 # AirBnB-Regression-Analysis
 A collection of Airbnb properties across the US, we have chosen to try and use the data provided to model which factors affect the price of an airbnb.
 
+https://akejay526.github.io/website-test/
+
 Variables:
 
 price: The price of the Airbnb per night
